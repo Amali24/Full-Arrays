@@ -1,0 +1,21 @@
+﻿Build started 12/7/2015 2:05:54 PM.
+     1>Project "C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\FullArrays.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FullArraysLib.cpp FullArraysMain.cpp
+         FullArraysMain.cpp
+     1>c:\users\d101-13\desktop\visualstudio 13_projects\fullarrays\fullarraysmain.cpp(19): warning C4101: 'fives' : unreferenced local variable
+     1>c:\users\d101-13\desktop\visualstudio 13_projects\fullarrays\fullarraysmain.cpp(19): warning C4101: 'squares' : unreferenced local variable
+     1>c:\users\d101-13\desktop\visualstudio 13_projects\fullarrays\fullarraysmain.cpp(19): warning C4101: 'posEven' : unreferenced local variable
+     1>c:\users\d101-13\desktop\visualstudio 13_projects\fullarrays\fullarraysmain.cpp(19): warning C4101: 'prime' : unreferenced local variable
+     1>c:\users\d101-13\desktop\visualstudio 13_projects\fullarrays\fullarraysmain.cpp(19): warning C4101: 'posOdd' : unreferenced local variable
+         FullArraysLib.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\Debug\FullArrays.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\Debug\FullArrays.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\Debug\FullArrays.lib" /MACHINE:X86 Debug\FullArraysLib.obj
+         Debug\FullArraysMain.obj
+         FullArrays.vcxproj -> C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\Debug\FullArrays.exe
+     1>Done Building Project "C:\Users\d101-13\Desktop\VisualStudio 13_Projects\FullArrays\FullArrays.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.96
