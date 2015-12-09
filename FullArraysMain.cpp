@@ -123,8 +123,13 @@ void main(){
 			system("pause");
 			exit(0);
 		}
-		showIntro(outputFile);
 
-		// FINISH FILE OUTPUT SECTION
+		showIntro(outputFile);
+		printArray(fives, SIZE_5, 5, outputFile);
+		printArray(even, SIZE_EVEN, 4, outputFile);
+		printArray(odd, SIZE_ODD, 3, outputFile);
+		printArray(prime, SIZE_PRIME, 2, outputFile);
+		printArray(squares, SIZE_SQUARES, 1, outputFile);
+
 	}
 }
